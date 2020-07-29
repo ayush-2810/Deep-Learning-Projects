@@ -1,3 +1,3 @@
 # Deep-Learning-Projects  
 
-Nunmber Prediction
+Number Prediction
